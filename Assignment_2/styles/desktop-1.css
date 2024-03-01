@@ -1,0 +1,340 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 195.3rem;
+}.desktop-1-6um {
+  box-sizing: border-box;
+  padding-left: 4.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ebfaee;
+}
+.desktop-1-6um .auto-group-p29j-g7H {
+  margin: 0rem 8.1rem 1.75rem 0rem;
+  width: 82.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .the-eco-concious-hub-XGK {
+  margin: 0rem 0rem 4.9rem 1.7rem;
+  max-width: 81.2rem;
+  font-size: 9.6rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .auto-group-t4s7-9Yb {
+  margin-right: 15.7rem;
+  width: calc(100% - 15.7rem);
+  height: 20.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .auto-group-t4s7-9Yb .whatsapp-image-2024-02-29-at-2309-1-4fZ {
+  margin-right: 14.3rem;
+  width: 20.1rem;
+  height: 20.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .auto-group-t4s7-9Yb .auto-group-pkjw-kYP {
+  margin: 6.778rem 0rem 3.8rem 0rem;
+  width: 32.8rem;
+  height: calc(100% - 10.5785rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .auto-group-t4s7-9Yb .auto-group-pkjw-kYP .auto-group-cvsd-3XV {
+  margin: 0rem 6.5rem 3.122rem 6.6rem;
+  width: calc(100% - 13.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .auto-group-t4s7-9Yb .auto-group-pkjw-kYP .auto-group-cvsd-3XV .login-94j {
+  margin-right: 3.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4284999847;
+  color: #424553;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .auto-group-t4s7-9Yb .auto-group-pkjw-kYP .auto-group-cvsd-3XV .or-jSF {
+  margin: 0.029rem 3.6rem 0rem 0rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.4287500381;
+  color: #535766;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .auto-group-t4s7-9Yb .auto-group-pkjw-kYP .auto-group-cvsd-3XV .signup-S5m {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4284999847;
+  color: #424553;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .auto-group-t4s7-9Yb .auto-group-pkjw-kYP .input-Xd1 {
+  box-sizing: border-box;
+  padding: 1rem 9.3rem 1rem 3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #d4d5d9;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .auto-group-t4s7-9Yb .auto-group-pkjw-kYP .input-Xd1 .item-91-3bM {
+  margin-right: 2.8rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #94969f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .auto-group-t4s7-9Yb .auto-group-pkjw-kYP .input-Xd1 .item--N7q {
+  margin-right: 5.6rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #94969f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .auto-group-t4s7-9Yb .auto-group-pkjw-kYP .input-Xd1 .mobile-number-saP {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #94969f;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .auto-group-t4s7-9Yb .auto-group-pkjw-kYP .input-Xd1 .mobile-number-saP .mobile-number-saP-sub-0 {
+}
+.desktop-1-6um .auto-group-p29j-g7H .auto-group-t4s7-9Yb .auto-group-pkjw-kYP .input-Xd1 .mobile-number-saP .mobile-number-saP-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  color: #ff5722;
+  font-family: Assistant, 'Source Sans Pro';
+}
+.desktop-1-6um .auto-group-p29j-g7H .divsubmitbottomoption-amd {
+  margin: 0rem 15.7rem 43.6rem 34.4rem;
+  width: calc(100% - 50.1rem);
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1428571429;
+  color: #ffffff;
+  font-family: Assistant, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #add69a;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .divheader-social-search-container-E5V {
+  margin: 0rem 12.289rem 10.25rem 19.3rem;
+  width: calc(100% - 31.589rem);
+  height: 4.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .divheader-social-search-container-E5V .divheader-social-links-container-jY3 {
+  margin: 1.088rem 2.4rem 1.312rem 0rem;
+  height: calc(100% - 2.4rem);
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .divheader-social-search-container-E5V .divheader-social-links-container-jY3 .link-EDu {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .divheader-social-search-container-E5V .divheader-social-links-container-jY3 .link-mUj {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .divheader-social-search-container-E5V .divheader-social-links-container-jY3 .link-v6j {
+  width: 2.0109rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .divheader-social-search-container-E5V .input-enter-your-search-query-qzP {
+  width: 39.7rem;
+  height: 100%;
+  position: relative;
+  border: solid 0.2rem rgba(62, 94, 90, 0.8000000119);
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .divheader-social-search-container-E5V .input-enter-your-search-query-qzP .divplaceholder-awy {
+  width: 32.8rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 1.3rem;
+  overflow: hidden;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: rgba(62, 94, 90, 0.8000000119);
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-6um .auto-group-p29j-g7H .divheader-social-search-container-E5V .input-enter-your-search-query-qzP .button-svg-rPh {
+  opacity: 0.9;
+  width: 1.5996rem;
+  height: 1.5999rem;
+  position: absolute;
+  left: 30.1rem;
+  top: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-6um .auto-group-p29j-g7H .divprimarynavigation-trB {
+  margin: 0rem 15.827rem 0rem 20.111rem;
+  width: calc(100% - 35.938rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .divprimarynavigation-trB .living-PH9 {
+  margin-right: 1.789rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.05rem;
+  text-transform: capitalize;
+  color: #264a46;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .divprimarynavigation-trB .zero-waste-6ST {
+  margin-right: 2.47rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.05rem;
+  text-transform: capitalize;
+  color: #264a46;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .divprimarynavigation-trB .cleaning-MdH {
+  margin-right: 2.091rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.05rem;
+  text-transform: capitalize;
+  color: #264a46;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .divprimarynavigation-trB .fashion-UT1 {
+  margin-right: 1.992rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.05rem;
+  text-transform: capitalize;
+  color: #264a46;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .divprimarynavigation-trB .beauty-Pps {
+  margin-right: 1.92rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.05rem;
+  text-transform: capitalize;
+  color: #264a46;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-6um .auto-group-p29j-g7H .divprimarynavigation-trB .book-81m {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.05rem;
+  text-transform: capitalize;
+  color: #264a46;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-6um .e606d0-9c05-4364-a79a-c4a82e44710f-1-eVu {
+  margin-bottom: 1.5rem;
+  width: 99.7rem;
+  height: 138.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}

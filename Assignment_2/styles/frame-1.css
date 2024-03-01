@@ -1,0 +1,152 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.frame-1-MK5 {
+  box-sizing: border-box;
+  padding: 5.7rem 8.65rem 0rem 13.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.frame-1-MK5 .sustainable-living-s2X {
+  margin: 0rem 5.55rem 3.3rem 0rem;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #5f7f68;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-MK5 .auto-group-xhqf-Zvw {
+  margin: 0rem 10.35rem 3.2rem 0.5rem;
+  width: calc(100% - 10.85rem);
+  height: 70.3rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-1-MK5 .auto-group-xhqf-Zvw .main-article-link-figure-alternatives-to-ziploc-bags-stasher-306x459jpg-5eP {
+  margin-right: 11.6rem;
+  width: 48.2rem;
+  height: 69.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #e6ebee;
+  background-size: 100% 100%;
+  background-image: url('../assets/main-article-link-figure-alternatives-to-ziploc-bags-stasher-306x459jpg-bg.png');
+  flex-shrink: 0;
+}
+.frame-1-MK5 .auto-group-xhqf-Zvw .main-article-link-figure-alternatives-to-ziploc-bags-stasher-306x459jpg-5eP .main-article-link-figure-alternatives-to-ziploc-bags-stasher-306x459jpg-5eP-bg {
+  width: 48.2rem;
+  height: 69.4rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:828060e6cbe6c98fd99ed08b9aa4f41c888439b3');
+}
+.frame-1-MK5 .auto-group-xhqf-Zvw .main-article-link-figure-sustainable-travel-featured-306x459jpg-VCK {
+  width: 51rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #e6ebee;
+  background-size: 100% 100%;
+  background-image: url('../assets/main-article-link-figure-sustainable-travel-featured-306x459jpg-bg.png');
+  flex-shrink: 0;
+}
+.frame-1-MK5 .auto-group-xhqf-Zvw .main-article-link-figure-sustainable-travel-featured-306x459jpg-VCK .main-article-link-figure-sustainable-travel-featured-306x459jpg-VCK-bg {
+  width: 51rem;
+  height: 70.3rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:3498c2bc1964b89efbd86486109b9f951677432d');
+}
+.frame-1-MK5 .auto-group-epah-91y {
+  margin: 0rem 8.45rem 20.2rem 3.6rem;
+  width: calc(100% - 12.05rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-1-MK5 .auto-group-epah-91y .alternatives-to-ziplock-bags-Fqh {
+  margin: 0.6rem 12.2rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-MK5 .auto-group-epah-91y .sustainable-travel-tips-for-concious-explorers-Z5h {
+  max-width: 54.9rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-1-MK5 .auto-group-jaez-TB5 {
+  margin-bottom: 6.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-MK5 .auto-group-jaez-TB5 .main-article-footer-link-heading-5-10-alternatives-to-ziploc-bags-zwh {
+  margin: 0rem 38.55rem 0.95rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #343a40;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-MK5 .auto-group-jaez-TB5 .main-article-footer-link-heading-5-11-sustainable-travel-tips-for-the-cy5 {
+  margin-top: 0.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #343a40;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-MK5 .main-article-footer-link-sustainable-living-55y {
+  margin-right: 3.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.1rem;
+  font-style: italic;
+  color: #3e5e5a;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

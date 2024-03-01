@@ -1,0 +1,155 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 215.3rem;
+}.frame-7-jxK {
+  box-sizing: border-box;
+  padding: 9.3rem 9.1rem 7.7rem 9.1rem;
+  width: 100%;
+  height: 120.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.frame-7-jxK .main-section-TtK {
+  width: 180.6rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.frame-7-jxK .main-section-TtK .link-Cb1 {
+  margin: 17.6rem 4.4rem 19.434rem 0rem;
+  width: 56.5rem;
+  height: calc(100% - 37.0343rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-7-jxK .main-section-TtK .link-Cb1 .article-figure-brand-directory-panda-london-230x230jpg-XNP {
+  margin-bottom: 4.3657rem;
+  width: 100%;
+  height: 59.5rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #e6ebee;
+  background-size: 100% 100%;
+  background-image: url('../assets/article-figure-brand-directory-panda-london-230x230jpg-bg.png');
+  flex-shrink: 0;
+}
+.frame-7-jxK .main-section-TtK .link-Cb1 .article-figure-brand-directory-panda-london-230x230jpg-XNP .article-figure-brand-directory-panda-london-230x230jpg-XNP-bg {
+  width: 56.5rem;
+  height: 59.5rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:556a4e4e9427c12c8a6a9a30cbf29d5b56175e29');
+}
+.frame-7-jxK .main-section-TtK .link-Cb1 .article-footer-heading-5-panda-london-abZ {
+  margin-left: 1.8697rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: 0.1rem;
+  color: #3e5e5a;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-7-jxK .main-section-TtK .auto-group-qdm7-4Wj {
+  margin-right: 3.4rem;
+  box-sizing: border-box;
+  padding: 17.5rem 0rem 19rem 0rem;
+  width: 62.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-7-jxK .main-section-TtK .auto-group-qdm7-4Wj .article-figure-bd-front-page-nakukari-230x230jpg-B5Z {
+  margin-bottom: 6.8rem;
+  width: 100%;
+  height: 57.6rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #e6ebee;
+  background-size: 100% 100%;
+  background-image: url('../assets/article-figure-bd-front-page-nakukari-230x230jpg-bg.png');
+  flex-shrink: 0;
+}
+.frame-7-jxK .main-section-TtK .auto-group-qdm7-4Wj .article-figure-bd-front-page-nakukari-230x230jpg-B5Z .article-figure-bd-front-page-nakukari-230x230jpg-B5Z-bg {
+  width: 62.4rem;
+  height: 57.6rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:940dffa9b5a1a5da64c0b247eddb3cfb5dd73afc');
+}
+.frame-7-jxK .main-section-TtK .auto-group-qdm7-4Wj .article-footer-heading-5-natukari-2rs {
+  margin-left: 1.621rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: 0.1rem;
+  color: #3e5e5a;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-7-jxK .main-section-TtK .auto-group-rmnu-XHq {
+  margin: 18.8rem 0rem 19.1rem 0rem;
+  width: 53.9rem;
+  height: calc(100% - 37.9rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-7-jxK .main-section-TtK .auto-group-rmnu-XHq .article-figure-brand-directory-hp-refill-shop-230x230jpg-ECF {
+  margin-bottom: 8rem;
+  width: 100%;
+  height: 55rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #e6ebee;
+  background-size: 100% 100%;
+  background-image: url('../assets/article-figure-brand-directory-hp-refill-shop-230x230jpg-bg.png');
+  flex-shrink: 0;
+}
+.frame-7-jxK .main-section-TtK .auto-group-rmnu-XHq .article-figure-brand-directory-hp-refill-shop-230x230jpg-ECF .article-figure-brand-directory-hp-refill-shop-230x230jpg-ECF-bg {
+  width: 53.9rem;
+  height: 55rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:5b309a589e3717edb033539f3ea878600db4d1ab');
+}
+.frame-7-jxK .main-section-TtK .auto-group-rmnu-XHq .article-footer-heading-5-the-refill-shoppe-HgK {
+  margin-left: 8.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: 0.1rem;
+  color: #3e5e5a;
+  font-family: Segoe UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
